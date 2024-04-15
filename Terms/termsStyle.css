@@ -19,7 +19,7 @@ h2
 }
 .navbar
 {
-  background-color: #F86045;
+  background-color: #00796B;
   padding: 0 !important;
 }
 .navbar-brand
@@ -55,7 +55,7 @@ h2
 .title::before
 {
   content: '';
-  background: #F86045;
+  background: #00796B;
   height: 5px;
   width: 200px;
   margin-left: auto;
