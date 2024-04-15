@@ -15,7 +15,7 @@ body
 }
 .navbar
 {
-  background-color: #F86045;
+  background-color: #00796B;
   padding: 0 !important;
 }
 .navbar-brand
@@ -52,7 +52,7 @@ body
 
 #banner
 {
-  background-color: #F86045; <!-- For changing main color-->
+  background-color: #00796B; <!-- For changing main color-->
   color: #fff;
   padding-top: 5%;
 }
@@ -111,7 +111,7 @@ width: 100%;
 .title::before
 {
   content: '';
-  background: #F86045;
+  background: #00796B;
   height: 5px;
   width: 200px;
   margin-left: auto;
@@ -191,7 +191,7 @@ width: 100%;
 /*-----Footer Section---*/
 #footer
 {
-  background-color: #F86045;
+  background-color:#00796B;
   color: #fff;
   padding-left: 20px;
 }
