@@ -28,7 +28,10 @@ body
 {
   padding: 0 10px;
 }
-
+.nav-link
+{
+  font-family: sans-serif;
+}
 .navbar-nav li a
 {
   color: #fff !important;
@@ -69,9 +72,15 @@ body
 }
 .playStore-btn
 {
- width: 155px;
+ width: 160px;
  height:80px;
  margin: 20px;
+}
+
+.img-fluid
+{
+  width: 100%;
+padding-top: 20px;
 }
 
 #banner a
